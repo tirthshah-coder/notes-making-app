@@ -1,0 +1,2 @@
+# Notes-Making App
+This web-app will help you to create your own notes. If you think that you made note that of no use now then delete functionality is also provided. You can also edit notes according to your needs.
